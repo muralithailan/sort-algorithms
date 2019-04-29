@@ -7,3 +7,5 @@ Java Implementation of Sort Algorithms
 3. Merge Sort - Liked List Implementation
 4. Insertion Sort
 5. Heap Sort
+6. Counting sort
+7. Redix sort
